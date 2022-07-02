@@ -40,4 +40,4 @@ Upon finding a topic, feel free to get started coding it! When you are done, ple
 * Qbot is not affiliated with Roblox Corporation.
 
 
-[![Run on Repl.it](https://repl.it/badge/github/ptyagicodecamp/allgorythms)](https://repl.it/github/ptyagicodecamp/allgorythms
+[![Run on Repl.it](https://repl.it/badge/github/ptyagicodecamp/allgorythms)](https://repl.it/github/JC98765/TME-1
