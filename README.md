@@ -38,3 +38,6 @@ Upon finding a topic, feel free to get started coding it! When you are done, ple
 ## Extra Notes
 * Qbot is not affiliated with Discord, Inc.
 * Qbot is not affiliated with Roblox Corporation.
+
+
+[![Run on Repl.it](https://repl.it/badge/github/ptyagicodecamp/allgorythms)](https://repl.it/github/ptyagicodecamp/allgorythms
